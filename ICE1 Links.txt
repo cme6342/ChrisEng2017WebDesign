@@ -1,0 +1,5 @@
+https://people.rit.edu/~cme6342/230/auth      AUTHENTICATION PAGE
+
+https://people.rit.edu/~cme6342/230/error/    ERROR DIRECTORY (Noterror page)
+
+https://people.rit.edu/~cme6342/230/error/whoops  NON-EXISTANT PAGE TO LOAD 404 HYPNO TOAD
